@@ -1,0 +1,9 @@
+{
+	"name": "puc-datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d55afaf9-8ead-4f6d-bf98-945a62c41765",
+		"tenantId": "be6f2cf9-bdc2-4cd5-872b-bce85aa8f30a"
+	}
+}
